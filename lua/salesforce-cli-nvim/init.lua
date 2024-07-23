@@ -7,7 +7,7 @@ function M.setup()
 		if opts.name then
 			print("Hello, " .. opts.name)
 		else
-			print("Hello, World!")
+			print("Hello, Beep!")
 		end
 	end)
 end
