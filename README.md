@@ -9,10 +9,19 @@ Implementing the salesforce cli in a neovim plugin
 - [ ] 
 - [ ] 
 
+## Currently Working on:
+
+### Org Commands
+
+
+### Code Commands
+
+- [ ] Retrieve 'this' source from org  #vscodeCMD
+- [ ] Deploy 'this' source to org #vscodeCMD
 
 ## Unimplemented Commands
 
-### ORG Commands
+### Org Commands
 
 - [ ] Authorize a Development Hub org  #vscodeCMD
 - [ ] Authoize org with Session ID  #vscodeCMD
