@@ -1,6 +1,8 @@
 # salesforce-cli-nvim
 Implementing the salesforce cli in a neovim plugin
 
+- [ ] work through https://m4xshen.dev/posts/develop-a-neovim-plugin-in-lua
+
 ## Currently Supported Commands
 
 - [ ] 
