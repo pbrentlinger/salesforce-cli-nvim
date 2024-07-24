@@ -4,7 +4,7 @@ local M = {}
 SF_CLI_Buf = nil
 
 function M.log_error(msg)
-	local log_file = "/tmp/nvim_plugin_error.log"
+	local log_file = "/tmp/salesforce-cli-nvim-error.log"
 	local f = io.open(log_file, "a")
 	f:write(msg .. "\n")
 	f:close()
