@@ -5,6 +5,8 @@ Implementing the salesforce cli in a neovim plugin because I wanted to learn how
 
 ### prerequisites
 
+I am assuming you are NOT using windows, because I am not testing on windows at this point since I work primarily on linux.
+
 - jq
 - telescope.nvim
 
