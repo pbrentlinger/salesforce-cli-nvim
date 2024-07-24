@@ -1,5 +1,5 @@
 # salesforce-cli-nvim
-Implementing the salesforce cli in a neovim plugin
+Implementing the salesforce cli in a neovim plugin because I wanted to learn how to make nvim plugins and learn the salesforce cli.
 
 ## Currently Supported Commands
 
