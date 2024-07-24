@@ -13,11 +13,12 @@ Implementing the salesforce cli in a neovim plugin
 
 ### Org Commands
 
+- [ ] Display Org details for default org  #vscodeCMD
 
 ### Code Commands
 
 - [ ] Retrieve 'this' source from org  #vscodeCMD
-- [ ] Deploy 'this' source to org #vscodeCMD
+- [ ] Deploy 'this' source to org #vscodeCMD #test
 
 ## Unimplemented Commands
 
