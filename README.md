@@ -5,9 +5,8 @@ Implementing the salesforce cli in a neovim plugin
 
 ## Currently Supported Commands
 
-- [ ] 
-- [ ] 
-- [ ] 
+Nothing yet, but I should have setting default org soon, along with retreive and deploy 'this'
+As well as run tests in this file since I have this code in another version of this plugin.
 
 ## Currently Working on:
 
