@@ -118,5 +118,5 @@ As well as run tests in this file since I have this code in another version of t
 
 ## Similar / Related Projects
 
-[Salesforce.nvim](https://github.com/jonathanmorris180/salesforce.nvim)
-[fzf-sfdx](https://github.com/surajp/fzf-sfdx)
+- [Salesforce.nvim](https://github.com/jonathanmorris180/salesforce.nvim)
+- [fzf-sfdx](https://github.com/surajp/fzf-sfdx)
