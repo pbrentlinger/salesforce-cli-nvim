@@ -1,6 +1,9 @@
 local sf_cli = require("salesforce-cli-nvim")
 local org = require("org")
 
+-- TODO: resolve error when in actual project with org.
+-- Probably need to make sure fetch default is working properly
+
 -- Function to fetch and set the default org alias global var
 local function fetch_default_org()
 	local jq_filter = [[ | jq -r '.result.alias']]
@@ -23,8 +26,8 @@ local function org_color()
 	if not Default_org then
 		return { bg = nil }
 	end
-	local org = Default_org:lower()
-	if org:find("prod") then
+	local default_org = Default_org:lower()
+	if default_org:find("prod") then
 		return { bg = "#FF4B4B" } -- red
 	elseif org:find("staging") then
 		return { bg = "#FFD20F" } -- orange
